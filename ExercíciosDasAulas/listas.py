@@ -13,6 +13,7 @@ carros.extend('Fusca')
 del carros[0]
 carros.pop(2)
 carros.remove('Mustang')
+carros.reverse()
 
 print(carros)
 
@@ -31,3 +32,8 @@ print(carros)
 
 # O .remove procura o elemento e o elimina.
 
+# O .sort reverse=True coloca a lista de trás para frente em ordem alfabética.
+
+# O len serve para saber quantos objetos tem na lista.
+
+#.reverse coloca todos os itens de trás para frente sem etar em ordem alfabética.
