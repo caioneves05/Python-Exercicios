@@ -6,3 +6,4 @@ print(alimentos)
 print(alimentos2)
 
 # [:] seleciona todos os elementos da lista.
+# O .sort ordenou as lista acima em ordem alfabética.
